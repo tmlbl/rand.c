@@ -3,7 +3,6 @@
 #include <unistd.h>
 
 #define NUM_TICKS 5
-#define INTERVAL 150
 
 int main()
 {
